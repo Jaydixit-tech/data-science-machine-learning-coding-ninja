@@ -25,3 +25,4 @@ Statistics
 Descriptive Statistics
 Introduction to Inferential Statistics
 Inferential Statistics : Hypothesis Testing
+This Repository contains all the codes I wrote myself during my journey of Data Science in coding ninjas.
