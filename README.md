@@ -24,6 +24,5 @@
 22. Descriptive Statistics
 23. Introduction to Inferential Statistics
 24. Inferential Statistics: Hypothesis Testing
-25. Number System
 26. Git
 This Repository contains all the codes I wrote myself during my journey of Data Science in coding ninjas.
